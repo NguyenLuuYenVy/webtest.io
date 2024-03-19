@@ -1,0 +1,15 @@
+body{
+    background-color: cyan;
+}
+h1 {
+    color: darkviolet;
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    color: black;
+    text-align: left;
+    white-space: pre-line;
+    font-size: 20px;
+}
+
